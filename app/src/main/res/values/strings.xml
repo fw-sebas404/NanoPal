@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NanoPal</string>
+    <string name="downloading_model">Descargando cerebro de NanoPal...</string>
+    <string name="loading_model">Cargando inteligencia artificial...</string>
+    <string name="mic_hint">Toca el micrófono para hablar</string>
+    <string name="listening">Escuchando...</string>
+    <string name="processing">Pensando (lentamente)...</string>
+</resources>
